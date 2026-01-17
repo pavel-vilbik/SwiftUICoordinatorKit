@@ -4,6 +4,7 @@
 [![Platform iOS 17+](https://img.shields.io/badge/Platform-iOS%2017+-blue.svg)](https://developer.apple.com/ios/)
 [![SPM Compatible](https://img.shields.io/badge/SPM-Compatible-brightgreen.svg)](https://swift.org/package-manager/)
 [![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+[![Documentation](https://img.shields.io/badge/Documentation-DocC-blue.svg)](https://pavel-vilbik.github.io/SwiftUICoordinatorKit/documentation/swiftuicoordinatorkit/)
 
 A lightweight, protocol-oriented framework for implementing the Coordinator pattern in SwiftUI applications.
 
@@ -299,6 +300,10 @@ CoordinatorNavigationView(coordinator: coordinator)
     .fullScreenCover(coordinator: coordinator)
     .alert(coordinator: coordinator)
 ```
+
+## Documentation
+
+Full API documentation is available at [GitHub Pages](https://pavel-vilbik.github.io/SwiftUICoordinatorKit/documentation/swiftuicoordinatorkit/).
 
 ## License
 

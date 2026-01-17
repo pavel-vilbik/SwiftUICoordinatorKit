@@ -262,21 +262,21 @@ CoordinatorNavigationView(coordinator: coordinator)
 │                    SwiftUICoordinatorKit                    │
 ├─────────────────────────────────────────────────────────────┤
 │  Protocols                                                  │
-│  ├── NavigationCoordinator     (push/pop navigation)       │
-│  ├── SheetCoordinator          (sheet presentations)       │
-│  ├── FullScreenCoverCoordinator                            │
-│  ├── AlertCoordinator          (alert presentations)       │
+│  ├── NavigationCoordinator     (push/pop navigation)        │
+│  ├── SheetCoordinator          (sheet presentations)        │
+│  ├── FullScreenCoverCoordinator                             │
+│  ├── AlertCoordinator          (alert presentations)        │
 │  └── AsyncFlow/                                             │
-│      ├── AsyncFlowCoordinator  (await flow results)        │
+│      ├── AsyncFlowCoordinator  (await flow results)         │
 │      ├── AsyncSheetCoordinator                              │
 │      └── AsyncFullScreenCoverCoordinator                    │
 ├─────────────────────────────────────────────────────────────┤
 │  Views                                                      │
-│  ├── CoordinatorNavigationView (NavigationStack wrapper)   │
+│  ├── CoordinatorNavigationView (NavigationStack wrapper)    │
 │  └── Modifiers/                                             │
-│      ├── SheetModifier         (.sheet extension)          │
-│      ├── FullScreenCoverModifier                           │
-│      └── AlertModifier         (.alert extension)          │
+│      ├── SheetModifier         (.sheet extension)           │
+│      ├── FullScreenCoverModifier                            │
+│      └── AlertModifier         (.alert extension)           │
 └─────────────────────────────────────────────────────────────┘
 ```
 

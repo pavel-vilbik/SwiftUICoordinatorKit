@@ -5,6 +5,7 @@
 [![SPM Compatible](https://img.shields.io/badge/SPM-Compatible-brightgreen.svg)](https://swift.org/package-manager/)
 [![License MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 [![Documentation](https://img.shields.io/badge/Documentation-DocC-blue.svg)](https://pavel-vilbik.github.io/SwiftUICoordinatorKit/documentation/swiftuicoordinatorkit/)
+[![Tests](https://github.com/pavel-vilbik/SwiftUICoordinatorKit/actions/workflows/tests.yml/badge.svg)](https://github.com/pavel-vilbik/SwiftUICoordinatorKit/actions/workflows/tests.yml)
 
 A lightweight, protocol-oriented framework for implementing the Coordinator pattern in SwiftUI applications.
 
